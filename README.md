@@ -1,2 +1,2 @@
 # Bimestre-Fundamentos-De-Programacion
-Ejercicios realizados durante el curso
+Control de las Actividades en Clase y Extractase
