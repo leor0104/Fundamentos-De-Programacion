@@ -1,1 +1,2 @@
-# 2-Bimestre-Fundamentos-De-Programacion
+# Bimestre-Fundamentos-De-Programacion
+Ejercicios realizados durante el curso
